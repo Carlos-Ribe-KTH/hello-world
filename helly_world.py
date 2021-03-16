@@ -6,6 +6,5 @@ def print_hej():
     print("Hej")
 
 
-#hej
-
+#h
 print_hej()
