@@ -6,9 +6,5 @@ def print_hej():
     print("Hej")
 
 
-#h
-print_hej()
-#f
+# här är försök nr 6 att skapa en branch i pycharm som automatiskt uppdaterar github
 
-# Så! nu har jag skapat en branch via pycharm!
-# Hörs imorgon!
